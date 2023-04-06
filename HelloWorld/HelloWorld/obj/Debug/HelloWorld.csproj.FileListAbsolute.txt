@@ -1,0 +1,7 @@
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Winged Virtue\Desktop\Универ\4 семестр\МООП\Лабораторные\Virtue.MOOP.LR1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
